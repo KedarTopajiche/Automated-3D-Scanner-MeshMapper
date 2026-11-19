@@ -4,7 +4,6 @@ An automated photogrammetry turntable and optical acquisition rig built on a Ras
 
 ## Live System Demonstration
 
-https://github.com/user-attachments/assets/placeholder
 
 *(If the inline player above does not render, click [`3D scanning system.mp4`](3D%20scanning%20system.mp4) in the repository file tree to view the full hardware capture run and mesh comparison.)*
 
